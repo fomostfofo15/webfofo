@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    background-color: rgb(255, 194, 217);
+    color: #fff;
+    
+    
+    
+}
+.cover{
+    
+    padding-left: 20%;
+    padding-top: 200px;
+    
+}
+.cover-1 {
+    padding: 15px;
+    font-size: 50px;
+    
+      
+}
+.cover-2 p{
+    color: rgb(255, 0, 140);
+    font-size: 15px;
+    width:72%;
+}
+.cover-2 a{
+    text-decoration: none;
+    color: rgb(248, 127, 166);
+    background-color: #fff;
+    border: 2px solid rgb(204, 233, 253) ;
+    border-radius: 20px;
+    /* padding-inline: 15px; */
+    padding: 10px;
+}
+
+.o{
+    color: rgb(248, 253, 204);
+}
+span{
+    color: rgb(49, 49, 49);
+}
+
